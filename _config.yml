@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 
 github:
-  is\_project\_page:false
+  is_project_page: false
