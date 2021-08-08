@@ -1,5 +1,5 @@
 # Portfolio
-Here's my list of Games I have created or been part of in the development!
+Here’s my list of games I have created or been part of in the development!
 
 ## 3rd Year
 ### <a href="https://kingslayer77.itch.io/needsvswants" target="_blank">Needs Vs Wants</a> [July 2021]
