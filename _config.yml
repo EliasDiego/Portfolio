@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
+title: "Portfolio"
 
 github:
   is_project_page: false
