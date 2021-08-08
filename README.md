@@ -1,5 +1,3 @@
-# Portfolio
-
 # 3rd Year
 ### <a href="https://kingslayer77.itch.io/needsvswants" target="_blank">Needs Vs Wants</a> [July 2021]
 Needs vs Wants is a game focused on an average worker trying to balance her money spending habits. It focuses on how a person manages their money in their personal and social lives while having bills to pay at the end of the month.
