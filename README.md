@@ -4,10 +4,10 @@
 ### <a href="https://yergo.itch.io/advent-machina">Advent Machina</a>
 Advent Machina The Game is a Military Tank Racing Game where the player has to race against other enemy tanks while shooting them. 
 
-<a href="https://yergo.itch.io/advent-machina"><img src="Games/AdventMachina/Images/ScreenShot_00.png" width="200"/></a>
-<a href="https://yergo.itch.io/advent-machina"><img src="Games/AdventMachina/Images/ScreenShot_01.png" width="200"/></a>
-<a href="https://yergo.itch.io/advent-machina"><img src="Games/AdventMachina/Images/ScreenShot_02.png" width="200"/></a>
-<a href="https://yergo.itch.io/advent-machina"><img src="Games/AdventMachina/Images/ScreenShot_03.png" width="200"/></a>
+<a href="https://yergo.itch.io/advent-machina" target="_blank"><img src="Games/AdventMachina/Images/ScreenShot_00.PNG" width="200"/></a>
+<a href="https://yergo.itch.io/advent-machina" target="_blank"><img src="Games/AdventMachina/Images/ScreenShot_01.PNG" width="200"/></a>
+<a href="https://yergo.itch.io/advent-machina" target="_blank"><img src="Games/AdventMachina/Images/ScreenShot_02.PNG" width="200"/></a>
+<a href="https://yergo.itch.io/advent-machina" target="_blank"><img src="Games/AdventMachina/Images/ScreenShot_03.PNG" width="200"/></a>
 
 It was made for Artificial Intelligence For Games on 3rd Year 1st Term 
 - Programmed Menus & Settings
