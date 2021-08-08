@@ -129,7 +129,6 @@ It was made for Game Programming 2 as the finals project on 2nd Year 3rd Term.
 The Game is a Dungeon Crawler/RPG. The Player has to defeat enemies and level up to gain more powers to defeat the infestation of slimes in the world. 
 
 <a href="https://yergo.itch.io/slime-slayer" target="_blank">
-
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SlimeSlayer/Images/ScreenShot_00.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SlimeSlayer/Images/ScreenShot_01.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SlimeSlayer/Images/ScreenShot_02.png?raw=true" width=200/>
@@ -146,7 +145,6 @@ It was made for the Finals of Level Design during the 2nd Year 3rd Term.
 The Game is a Sci-Fi Space Game where the player has to defend their ship from different types of missiles using their laser cannons. 
 
 <a href="https://yergo.itch.io/battle-ship-defense" target="_blank">
-
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/BattleShipDefense/Images/ScreenShot_00.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/BattleShipDefense/Images/ScreenShot_01.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/BattleShipDefense/Images/ScreenShot_02.png?raw=true" width=200/>
@@ -164,7 +162,6 @@ It was made for Game Programming 2 under the theme of “10 seconds” during th
 The Game is a 2D Rhythm game where the player has to unite the world. The game has 2 play areas where the player can switch from two worlds, reality and digital world, in which the player has to tackle problems around the world. 
 
 <a href="https://yergo.itch.io/doctored-reality" target="_blank">
-
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/DoctoredReality/Images/ScreenShot_00.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/DoctoredReality/Images/ScreenShot_01.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/DoctoredReality/Images/ScreenShot_02.png?raw=true" width=200/>
@@ -198,6 +195,7 @@ It was made for Game Programming 1 on 2nd Year 2nd Term.
 ### <a href="https://yergo.itch.io/space-retriever" target="_blank">Space Retriever</a> [February 2020]
 The Game is a Sci-Fi Platforming Game where the player has to find all their Space Ship’s parts to repair it and leave the planet. 
 
+<a href="https://yergo.itch.io/space-retriever" target="_blank">
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SpaceRetriever/Images/ScreenShot_00.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SpaceRetriever/Images/ScreenShot_01.png?raw=true" width=200/>
 <img src="https://github.com/EliasDiego/Portfolio/blob/37603c03c4b6d565c3a89f65118435e704fa3ef5/Games/SpaceRetriever/Images/ScreenShot_02.png?raw=true" width=200/>
