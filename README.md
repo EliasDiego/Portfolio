@@ -1,37 +1,52 @@
 # Portfolio
 
-# 1st Year
-### Last Stand
-The Game is a Sci-Fi Apocalyptic Text Based Story Game where the player experiences the story of William and his experience in the lose of his Family and Home. 
+# 3rd Year
+### Advent Machina
+Advent Machina The Game is a Military Tank Racing Game where the player has to race against other enemy tanks while shooting them. 
 
-It was made for Advance Programming’s Midterm during the 1st Year 2nd Term. 
-- Created the Story 
-- Programmed Choices and Input Prompts. 
-- Programmed Colored Dialogues for Characters. 
-- Programmed Branching Dialogues 
-- Programmed Main Menu and Settings
+It was made for Artificial Intelligence For Games on 3rd Year 1st Term 
+- Programmed Menus & Settings
+- Programmed Tank Controls & Shooting
+- Programmed Tank AI & Track Guide System
+- Programmed Tank Bullet
+- Programmed GUI
+- Programmed Regeneration Quick Time Mechanic
+- Programmed AC 130 Ability
   
-### Space Invader 
-The Game is a recreation of Space Invader in the Command Prompt window. 
+### Project Flashback
+Project Flashback The Game is a 2D Platforming where the Player’s world, in the shoes of Mr Dan, is being engulfed by Flash Games because of a weird phenomenon and has to stop it before it fully turns the world and drag it with the 2020, year when flash support ended, dooms day. 
 
-It was made as a hobby during my 1st Year, 3rd Term
-- Programmed Player
-- Programmed Alien
-- Programmed Bullet
-- Programmed Game Loop
-- Programmed Window
-- Programmed Collision
+It was made for GAMEPROJ1 (Thesis 1) during our 3rd Year and 2nd Term 
+- Programmed Player Movement, Attacks, Health, Mana
+- Programmed Time Mechanic
+- Programmed Skill Systems
+- Programmed Enemy AI
+- Programmed UI and Menus
+- Programmed Dialogue System and Editor
   
-### Pong
-The Game is a recreation of Pong in the Command Prompt window. 
+### Zantetsuken
+Zantetsuken The Game is a Free for all 2D platforming combat, with emphasis on quick fast paced combat where 1 hit would mean defeat. With a character roster to change the flow of combat. 
 
-It was made as a hobby during my 1st Year, 3rd Term
-- Programmed Ball
-- Programmed Pad
-- Programmed Window
-- Programmed Game Loop
-- Programmed Collision
+The Game was made for Game Networking during our 3rd Year and 2nd Term. 
+- Programmed UI and Menus
+- Programmed Net Code using Photon
+- Programmed Player Movement
   
+### Needs Vs Wants
+Needs vs Wants is a game focused on an average worker trying to balance her money spending habits. It focuses on how a person manages their money in their personal and social lives while having bills to pay at the end of the month.
+
+The Game was made for Game Thesis2 during our 3rd Year and 3rd Term
+- Created Calendar System
+- Created Menus and Pop Ups
+- Created Phone Menu and its apps
+- Created Welfare System
+- Created Drop System
+- Created Player Stat Management
+  
+### Kings Gambit
+
+### AR Dungeon
+
 # 2nd Year
 ### Nexus Wars
 The Game is a Sci-Fi Bullet Hell Game where the player has to survive each enemy wave until they reach the Boss Scene. 
@@ -115,53 +130,38 @@ It was made for Game Programming 2 as the finals project on 2nd Year 3rd Term.
 - Programmed Enemy AI
 - Programmed Animation Logic
   
-# 3rd Year
-### Advent Machina
-Advent Machina The Game is a Military Tank Racing Game where the player has to race against other enemy tanks while shooting them. 
+# 1st Year
+### Last Stand
+The Game is a Sci-Fi Apocalyptic Text Based Story Game where the player experiences the story of William and his experience in the lose of his Family and Home. 
 
-It was made for Artificial Intelligence For Games on 3rd Year 1st Term 
-- Programmed Menus & Settings
-- Programmed Tank Controls & Shooting
-- Programmed Tank AI & Track Guide System
-- Programmed Tank Bullet
-- Programmed GUI
-- Programmed Regeneration Quick Time Mechanic
-- Programmed AC 130 Ability
+It was made for Advance Programming’s Midterm during the 1st Year 2nd Term. 
+- Created the Story 
+- Programmed Choices and Input Prompts. 
+- Programmed Colored Dialogues for Characters. 
+- Programmed Branching Dialogues 
+- Programmed Main Menu and Settings
   
-### Project Flashback
-Project Flashback The Game is a 2D Platforming where the Player’s world, in the shoes of Mr Dan, is being engulfed by Flash Games because of a weird phenomenon and has to stop it before it fully turns the world and drag it with the 2020, year when flash support ended, dooms day. 
+### Space Invader 
+The Game is a recreation of Space Invader in the Command Prompt window. 
 
-It was made for GAMEPROJ1 (Thesis 1) during our 3rd Year and 2nd Term 
-- Programmed Player Movement, Attacks, Health, Mana
-- Programmed Time Mechanic
-- Programmed Skill Systems
-- Programmed Enemy AI
-- Programmed UI and Menus
-- Programmed Dialogue System and Editor
+It was made as a hobby during my 1st Year, 3rd Term
+- Programmed Player
+- Programmed Alien
+- Programmed Bullet
+- Programmed Game Loop
+- Programmed Window
+- Programmed Collision
   
-### Zantetsuken
-Zantetsuken The Game is a Free for all 2D platforming combat, with emphasis on quick fast paced combat where 1 hit would mean defeat. With a character roster to change the flow of combat. 
+### Pong
+The Game is a recreation of Pong in the Command Prompt window. 
 
-The Game was made for Game Networking during our 3rd Year and 2nd Term. 
-- Programmed UI and Menus
-- Programmed Net Code using Photon
-- Programmed Player Movement
+It was made as a hobby during my 1st Year, 3rd Term
+- Programmed Ball
+- Programmed Pad
+- Programmed Window
+- Programmed Game Loop
+- Programmed Collision
   
-### Needs Vs Wants
-Needs vs Wants is a game focused on an average worker trying to balance her money spending habits. It focuses on how a person manages their money in their personal and social lives while having bills to pay at the end of the month.
-
-The Game was made for Game Thesis2 during our 3rd Year and 3rd Term
-- Created Calendar System
-- Created Menus and Pop Ups
-- Created Phone Menu and its apps
-- Created Welfare System
-- Created Drop System
-- Created Player Stat Management
-  
-### Kings Gambit
-
-### AR Dungeon
-
 ## Welcome to GitHub Pages
 [Needs Vs Wants](/assets/Games/NeedsVsWants/index.html)
 
